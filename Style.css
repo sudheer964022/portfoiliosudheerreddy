@@ -79,7 +79,7 @@
       nav {
         display: none;
       }
-       .social-link {
+       .social-links {
           justify-content: center;
           margin-top: 10px;
        }
@@ -431,3 +431,4 @@
       }
 
     }
+
