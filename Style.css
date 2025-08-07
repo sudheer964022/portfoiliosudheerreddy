@@ -131,6 +131,19 @@
       left: 20%;
     }
 
+    .social-links a:hover {
+      transform: translateY(-3px);
+    }
+
+    .social-links a:hover svg {
+      transform: scale(1.1);
+      filter: brightness(1.2);
+    }
+
+    .social-links a:active {
+      transform: translateY(1px);
+    }
+
     .about p {
       font-size: 1.7rem;
     }
@@ -237,6 +250,7 @@
       color: rgb(5, 255, 5);
       font-size: larger;
     }
+
     .education .degree {
       color: rgb(12, 160, 252);
       font-size: medium;
@@ -369,7 +383,7 @@
     }
 
 
-      .contact {
+    .contact {
       min-height: calc(100vh - 60px);
     }
 
