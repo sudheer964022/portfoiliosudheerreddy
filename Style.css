@@ -79,10 +79,6 @@
       nav {
         display: none;
       }
-       .social-links {
-          justify-content: center;
-          margin-top: 10px;
-       }
     }
 
     section {
@@ -216,6 +212,11 @@
       .intro img {
         width: 210px;
         height: 210px;
+      }
+
+      .social-links {
+        justify-content: center;
+        margin-top: 10px;
       }
     }
 
@@ -429,6 +430,4 @@
       .project img {
         margin-bottom: 10px;
       }
-
     }
-
